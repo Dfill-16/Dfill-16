@@ -79,9 +79,9 @@ Soy desarrollador backend con base sólida en **.NET MVC, Laravel y Python**, en
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**CV\_Annalyzer**](https://github.com/Dfill-16/CV_Annalyzer) | Analizador de hojas de vida con integración de IA y búsqueda vectorial | Python, pgvector |
-| [**NominowApp**](https://github.com/Dfill-16/NominowApp) | Sistema de nómina empresarial con liquidación automática | Node.js, JS |
-| [**Sistema\_Evaluación**](https://github.com/Dfill-16/Sistema_Evaluacion) | Plataforma de evaluaciones y seguimiento académico | Laravel, PHP |
+| [**CV\_Annalyzer**](https://github.com/Dfill-16/CV_Annalyzer) | Analizador de hojas de vida con integración de IA y búsqueda vectorial | Laravel, PHP, Vizra |
+| [**NominowApp**](https://github.com/Dfill-16/NominowApp) | Sistema de nómina empresarial con liquidación automática | .Net |
+| [**Sistema\_Evaluación**](https://github.com/Dfill-16/Sistema_Evaluacion) | Plataforma de evaluaciones y seguimiento académico | Django, Python |
 | [**Sistema\_Barberia**](https://github.com/Dfill-16/Sistema_Barberia) | Sistema de gestión para barbería con agendamiento integrado | Laravel, PHP |
 | [**Backend-Node-MultipleDB**](https://github.com/Dfill-16/Backend-Node-MultipleDB) | Backend con soporte para múltiples bases de datos | Node.js, JS |
 
