@@ -1,6 +1,6 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:004d52&height=200&section=header&text=David%20Agudelo%20Jaramillo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Colombia%20🇨🇴&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:004d52&height=200&section=header&text=David%20Agudelo%20Jaramillo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Colombia&descAlignY=58&descSize=18)
 
 </div>
 
@@ -69,7 +69,7 @@ Soy desarrollador backend con base sólida en **.NET MVC, Laravel y Python**, en
   </tr>
 </table>
 
-![Streak](https://streak-stats.demolab.com?user=Dfill-16&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
+![Streak](https://streak-stats.demolab.com?user=Dfill-16&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
@@ -89,7 +89,11 @@ Soy desarrollador backend con base sólida en **.NET MVC, Laravel y Python**, en
 
 ### 📈 Actividad Reciente
 
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dfill-16&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -98,4 +102,3 @@ Soy desarrollador backend con base sólida en **.NET MVC, Laravel y Python**, en
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:004d52,100:01696f&height=120&section=footer)
 
 </div>
-]]>
